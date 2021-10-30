@@ -5,3 +5,7 @@ Techniques/Technologies used to scrape full resolution images of Mar's hemispher
 - BeautifulSoup 
 - Splinter
 - MongoDB
+
+
+
+![image.png](image/image.png)
